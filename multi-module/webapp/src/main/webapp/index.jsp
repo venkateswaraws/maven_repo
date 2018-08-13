@@ -7,7 +7,7 @@ from Core Servlets and JSP Exercises.
   
 <HTML>
 <HEAD>
-  <TITLE>Color Testing</TITLE>
+  <TITLE>Hello Welcome to the session</TITLE>
 </HEAD>
   
 <%
