@@ -26,7 +26,7 @@ myColor = bgColor;
   
 <BODY BGCOLOR="<%= myColor %>">
  
-<H2 ALIGN="CENTER">Color Testing</H2>
+<H2 ALIGN="CENTER">Welcome to the Session</H2>
   
 <form>
             <input type="text" name="color" size="25">
